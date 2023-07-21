@@ -1,5 +1,5 @@
 
-import 'package:assignment2_splash_screen/splash_page2.dart';
+import 'package:assignment2_splash_screen/page/splash_page2.dart';
 import 'package:flutter/material.dart';
 
 void main() {
