@@ -7,7 +7,7 @@ import 'package:url_launcher/url_launcher.dart';
 class SplashPage extends StatelessWidget {
   const SplashPage({super.key});
 
-  static const fbUrl = "https://web.facebook.com/nsbm.lk?_rdc=1&_rdr";
+  static const fbUrl = "https://m.facebook.com/nsbm.lk";
   static const insUrl = "https://instagram.com/nsbmgreenuniversity?igshid=MzRlODBiNWFlZA==";
   static const ytUrl = "https://www.youtube.com/@NSBMGreenUniversityTown";
   static const webUrl = "https://www.nsbm.ac.lk/";
